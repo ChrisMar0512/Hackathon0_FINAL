@@ -12,10 +12,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3C2ZenR89LQGt2qghnak6VjaGoA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,7 +28,6 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "feat/member-christian",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/DBP/Hackathon0_FINAL",
     "nodejs_package_manager_path": "npm",
