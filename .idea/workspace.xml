@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="929df80f-28f2-455f-b6b4-7a9e1aa00e78" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/team.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +37,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "Merging main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/DBP/Hackathon0_FINAL",
     "nodejs_package_manager_path": "npm",
